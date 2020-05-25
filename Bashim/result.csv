@@ -1,0 +1,14 @@
+Filename; Filepath; Extension; Permission; Size(bytes); Change; Duration (A/V)
+.car; test/.car; ; -rw-r--r--;35;24сен 15:58; 
+.car.save; test/.car.save; save; -rw-r--r--;52;24сен 16:15; 
+NAMES.csv; test/NAMES.csv; csv; -rw-r--r--;26;15сен 09:54; 
+prikol; test/prikol; ; -rw-r--r--;72;15сен 09:58; 
+prikol.csv; test/prikol.csv; csv; -rw-r--r--;72;15сен 09:58; 
+script; test/script; ; -rw-rw-r--;179;15сен 09:43; 
+spisok; test/spisok; ; -rw-r--r--;34;15сен 10:44; 
+video_2019-09-15_17-52-10.mp4; test/video_2019-09-15_17-52-10.mp4; mp4; -rw-rw-r--;1,8M;15сен 17:52; 00:00:15.26,
+.Неделя на Лентаче.mp3; test/.Неделя на Лентаче.mp3; mp3; -rw-rw-r--;618K;15сен 10:17; 00:01:19.01,
+Снимок экрана от 2019-09-1511-03-54.png; test/Снимок экрана от 2019-09-1511-03-54.png; png; -rw-rw-r--;395K;15сен 11:03; 
+.kek; test/Chill/.kek; ; -rw-r--r--;0;28сен 16:52; 
+rest; test/Chill/rest; ; -rw-r--r--;44;17сен 06:58; 
+Отдых.jpeg; test/Chill/Отдых.jpeg; jpeg; -rw-rw-r--;12K;17сен 06:58; 

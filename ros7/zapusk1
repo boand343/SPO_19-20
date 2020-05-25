@@ -1,0 +1,4 @@
+gnome-terminal -- roscore
+gnome-terminal -- rosrun stage_ros stageros $(pwd)/mineworld
+chmod +x poehali.py
+gnome-terminal -- ./poehali.py
